@@ -62,8 +62,7 @@
         document.getElementById('reiniciar').removeAttribute('disabled');
         
     } 
-    console.log(numeroSecreto);
-    console.log(document.getElementById('valorUsuario').value);
+   
 
 }
     
