@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image:url("/img/fondo.png") ;
+    background-image:url("img/fondo.png") ;
     
     height: 100vh;
     display: flex;
